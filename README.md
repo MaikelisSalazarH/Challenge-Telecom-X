@@ -44,10 +44,5 @@ El objetivo principal es identificar patrones y variables que afectan la permane
 
 ---
 
-## 📂 Estructura del Repositorio
-┣📜 README.md
-┣📂 notebooks
-  📜Challenge Telecom X.ipynb
-┣ 📂 img
   
 
